@@ -1,5 +1,5 @@
 
-// This is a simplified ESLint configuration compatible with Node.js v16
+// This is a simplified ESLint configuration compatible with Node.js v14
 module.exports = {
   root: true,
   extends: [
